@@ -1,4 +1,6 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+# Name: R.SABARINATH
+# Register No: 212223100048
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -69,6 +71,11 @@ If the goal is met, the creator can withdraw funds.
 
 If the goal is not met, contributors can claim a refund.
 
+# Output:
+<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/38cfd4d0-c57b-45e4-9368-192c88dccad3" />
+
+<img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/1a9feec2-58e8-4695-8406-1e2441f78797" />
+
 
 # High-Level Overview:
 Teaches decentralized fundraising.
@@ -77,3 +84,4 @@ Teaches decentralized fundraising.
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
 # RESULT: 
+Thus result shows whether the campaign succeeded (funds go to creator) or failed (backers get refunds), with all actions transparently recorded on the blockchain.
